@@ -1,0 +1,21 @@
+{
+  "short_name": "BL Tipps",
+  "name": "Bundesliga Tippbörse",
+  "description": "KI-gestützte Bundesliga Tipps mit Punktewertung",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#d4a017",
+  "background_color": "#0a0a0a",
+  "apple-mobile-web-app-capable": "yes",
+  "apple-mobile-web-app-status-bar-style": "black-translucent",
+  "apple-mobile-web-app-title": "BL Tipps"
+}
